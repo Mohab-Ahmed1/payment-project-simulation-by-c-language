@@ -3,9 +3,7 @@ this is a c based project that simulates the payment proccess
 it is composed of 3 parts
 
 1-card
-
 2-terminal
-
 3-server
 
 the card :
