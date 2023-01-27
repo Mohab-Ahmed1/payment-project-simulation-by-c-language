@@ -1,0 +1,12 @@
+09/22
+12/09/2032
+Expected answer:Expired card
+12/34
+12/10/2022
+Expected answer:Terminal Is ok
+12456
+12/10/2022
+Expected answer:Wrong Exp Date
+09/22
+12/m5/2022
+Expected answer:Wrong transaction date

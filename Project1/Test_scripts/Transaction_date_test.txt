@@ -1,0 +1,12 @@
+12/10/2022
+Expected result:terminal ok
+2m/10/2023
+Expected Result: wrong transection date
+248/157689
+Expected Result: wrong transection date
+2022/15/10
+Expected Result: wrong transection date
+32/10/22
+Expected Result: wrong transection date
+31/14/2022
+Expected Result: wrong transection date

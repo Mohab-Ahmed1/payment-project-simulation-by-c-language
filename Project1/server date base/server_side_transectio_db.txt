@@ -1,0 +1,10 @@
+##################
+Transaction Sequence Number:1
+Transaction Date:22/12/2022
+Transaction Amount:5000.000000
+Transaction State: FRAUD CARD 
+Terminal Max Amount:10000.000000
+Cardholder Name:mohabahmedramadanahmed
+pan:480528382820322022
+Card Expiration Date:09/32
+##################

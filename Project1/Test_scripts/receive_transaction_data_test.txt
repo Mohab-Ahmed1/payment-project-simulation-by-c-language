@@ -1,0 +1,20 @@
+612291488388935618
+mohabahmedramadanahmed
+09/32
+50000
+Expected Answer:Approved
+113097968908654646
+mohabahmedramadanahmed
+01/23
+30000
+Expected Answer:DECLINED_INSUFFECIENT_FUND
+901061406557977537
+mohabahmedramadanahmed
+08/24
+50
+Expected Answer:FRAUD_CARD
+673292539893862647
+mohabahmedramadanahmed
+09/22
+1000
+Expected Answer:Internal server error

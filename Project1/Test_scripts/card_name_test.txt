@@ -1,0 +1,12 @@
+mohab
+expected result:wrong name
+mohab ahmed
+expected result:wrong name
+mohab ahmed ramadan
+expected result:card ok 
+mohabahmedramadanahmed
+expected result:card ok
+mohamed ahmed saied
+expected result: card ok 
+mohamed a56ed saied
+expected result:wrong name

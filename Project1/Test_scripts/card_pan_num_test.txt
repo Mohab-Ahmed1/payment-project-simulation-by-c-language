@@ -1,0 +1,12 @@
+0122456245488454542454245454242452454
+expected result: wrong pan number
+012121212
+expected result: wrong pan number
+0012215245245sdw12514
+expected result: wrong pan number
+012345678901234567
+expected result: Card ok
+15454245445454/*ds,dsd
+expected result: wrong pan number
+1234 564654 215484
+expected result: wrong pan number

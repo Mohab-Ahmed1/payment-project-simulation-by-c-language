@@ -1,0 +1,6 @@
+1000
+Expected Result :Terminal is ok
+5000
+Expected Result :Terminal is ok
+20000
+Expected Result :Exceed Max Amount

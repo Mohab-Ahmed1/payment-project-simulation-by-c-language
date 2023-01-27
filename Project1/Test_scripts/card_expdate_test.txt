@@ -1,0 +1,20 @@
+12345
+expected result: wrong exp date
+13/88
+expected result: wrong exp date
+0/199
+expected result: wrong exp date
+23/18
+expected result: wrong exp date
+12/22
+expected result: card ok
+02/23
+expected result: card ok
+00/24
+expected result: wrong exp date
+12/00
+expected result: card ok
+0m/24
+expected result: wrong exp date
+0m/2424454
+expected result: wrong exp date

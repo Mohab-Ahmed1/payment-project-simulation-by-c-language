@@ -1,0 +1,18 @@
+int i = 0;
+	int flg;
+	printf("lenth : %d", strlen(prr));
+	/*for (i = 0; i < strlen(prr); i++)
+	{
+		if (prr[i]>'0' || prr[i]<'9' ) {
+			printf("prop %d\n", prr[i]);
+			flg =1;
+			
+		}
+		else {
+			printf("proplem in %c\n", prr[i]);
+			flg = 0 ;
+			break;
+		}
+
+	}
+	return flg;

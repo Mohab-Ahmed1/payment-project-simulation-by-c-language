@@ -1,0 +1,3 @@
+E:\embeded learn\fwd embeded\Project1\x64\Debug\payment project.exe
+E:\embeded learn\fwd embeded\mohabahmedramadanahmed\Project1\x64\Debug\payment project.exe
+E:\embeded learn\fwd embeded\payment project\Project1\x64\Debug\payment project.exe

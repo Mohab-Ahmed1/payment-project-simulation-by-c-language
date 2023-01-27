@@ -1,0 +1,8 @@
+0
+Expected Result:In valid max Amount
+dasda
+Expected Result:please enter a valid number
+102234
+Expected Result:terminal is ok
+1000
+Expected Result:terminal is ok

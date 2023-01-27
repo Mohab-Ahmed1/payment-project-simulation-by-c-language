@@ -1,0 +1,18 @@
+612291488388935618
+90000
+Expected Answer: Low Baance
+113097968908654646
+20000
+Expected Answer : server ok
+902061406557977537
+2000
+Expected Answer: Low Baance
+480528382820722022
+50000
+Expected Answer : server ok
+673292539893862647
+50000
+Expected Answer: Low Baance
+645032412106574628
+90000
+Expected Answer : server ok

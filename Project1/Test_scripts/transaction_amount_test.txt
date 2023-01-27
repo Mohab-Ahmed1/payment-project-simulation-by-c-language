@@ -1,0 +1,10 @@
+1234
+Expected Answer:Terminal ok
+12345548545
+Expected Answer:Terminal ok
+124
+Expected Answer:Terminal ok
+0
+Expected Answer:not a valid Amount
+dssad
+Expected Answer :please enter a valid number

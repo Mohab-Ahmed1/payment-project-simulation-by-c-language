@@ -1,0 +1,16 @@
+612291488388935618
+Expected Answer: terminal ok
+612294488388935618
+Expected Answer:invalid card
+113097968908654646
+Expected Answer: terminal ok
+5560593098175339
+Expected Answer: terminal ok
+5560593098175332
+Expected Answer:invalid card
+8567373145259270
+Expected Answer: terminal ok
+720564568688525143
+Expected Answer: terminal ok
+4955179398477168
+Expected Answer:invalid card
