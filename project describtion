@@ -1,0 +1,23 @@
+this project is a simulation to the payment proccess using the c language 
+
+compossed of 3 stages
+1-card
+2-terminal 
+3-server
+
+in card it gets :
+holder name 
+exp date
+pan number
+
+in terminal it checks :
+all the card data are avilable
+if the pan number is according to lhun algorithm
+is the card expired 
+it requests the transaction amount and checks if it is not exceeding the terminal max amount
+
+in the server :
+it checks if the account valid in the data base 
+it checks if the ammount is sufficient under the account
+it executes the payment proccess 
+it updates the database and prints a payment receite
